@@ -12,10 +12,10 @@ redirect_from:
 # 🎓 Education
 
 - **Ph.D. in Network Learning Technology**, *National Central University*, Taiwan  
-  *2024 – Present*  
+  *2025 – Present*  
   Exploring Generative AI for Programming Education and Reading Companion  
   Advisor: [Prof. Hui-Chun Hung](https://scholars.ncu.edu.tw/en/persons/hui-chun-hung)
-- **MSc. in Network Learning Technology**, *National Central University*, Taiwan  
+- **M.Sc. in Network Learning Technology**, *National Central University*, Taiwan  
   *2023 - 2024 (Dual Degree)*   
   Focus on Machine Learning for Education  
   Advisor: [Prof. Hui-Chun Hung](https://scholars.ncu.edu.tw/en/persons/hui-chun-hung)
@@ -39,7 +39,7 @@ redirect_from:
   - NL7030 Quantitative Research Methods in e-Learning (EMI)
 
 - **Math Teacher**, PKBM PPI Taiwan  
-  *2024 - Present*  
+  *2024 - 2025*  
   Teaching Mathematics for Grade 6 - 12 of High School *(Kejar Paket B - C)*
 - **IT Teacher**, Mutiara Persada Multicommunity School, Indonesia  
   *2020 – 2023*  
@@ -68,7 +68,7 @@ redirect_from:
 ---
 
 # 🤝Organization & Volunteer  
-- *2024 - Present* - [ President ] NCU Muslim Club  
+- *2024 - 2026* - [ President ] NCU Muslim Club  
 - *2023 - 2024* - [ Vice Governor ] FORMMIT Utada  
 - *2015 - 2017* - [ Leader ] Karang Taruna Kamajaya Semail (Village Youth)  
 - *2013 May* - [ Supervisor ] Liaison Officer of International Conference on Vocational Education and Training (ICVET) 
@@ -110,5 +110,6 @@ Teaching
   {% endfor %}</ul> -->
 ---
 # 📬 Contact
-
-- Email: [maspawitra@gmail.com](mailto:maspawitra@gmail.com)
+<!--
+- Email: [maspawitra@gmail.com](mailto:maspawitra@gmail.com) -->
+- Email: <bdo dir="rtl">moc.liamg@artiwapsam</bdo>
