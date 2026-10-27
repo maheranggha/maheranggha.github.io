@@ -26,7 +26,7 @@ author:
   name             : "Mahendra Pawitra" # Your name
   pronouns         : # example: "she/her"  
   bio              : "Student of Knowledge"
-  location         : "Taoyuan, TW"
+  location         : "Zhongli, TW"
   employer         : 
   # uri              : "https://di.cl.ncu.edu.tw/"
   email            : "maspawitra+web@gmail.com"
@@ -52,13 +52,13 @@ author:
 
   # Social media
   bluesky          : # Replace this with you Bluesky username
-  facebook         : "mahendra.sanggha"
+  facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : "maspawitra"
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "maheranggha"
+  instagram        : # Username
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -68,7 +68,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "maheranggha"
+  twitter          : # Username
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
