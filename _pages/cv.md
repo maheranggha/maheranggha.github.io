@@ -85,6 +85,7 @@ redirect_from:
 # 🌍 Languages
 
 - Bahasa Indonesia (Native)
+- Javanese (Native)
 - English (Professional)
 - Arabic (Basic)
 - Chinese (Basic)
