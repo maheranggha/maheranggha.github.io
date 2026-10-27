@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-09-jecr-qualitative-motivation-self-regulated-chatbot
 excerpt: 'This study investigates students’ experiences with TaskInsighter, a GenAI-supported feedback chatbot that combines a conversational interface, generative feedback, Socratic questioning, formative scoring, and code-specific prompts in a university-level Python programming course. Grounded in Self-Regulated Learning (SRL) theory and Sensemaking Theory, we conducted a qualitative analysis of 38 open-ended student reflections and 8 in-depth semi-structured interviews.'
-# paper_keyword: 'generative AI, AI feedback, self-regulated learning, adaptive learning, self-explanation'
+paper_keyword: 'generative AI, AI feedback, self-regulated learning, adaptive learning, self-explanation'
 date: 2026-09-01
 venue: 'Journal of Educational Computing Research'
 # slidesurl: ''
