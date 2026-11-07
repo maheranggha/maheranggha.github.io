@@ -1,7 +1,6 @@
 ---
 layout: archive
 title: "Connect"
-description: "Find me around the web."
 permalink: /connect/
 author_profile: true
 
@@ -10,7 +9,15 @@ author_profile: true
 {% include base_path %}
 
 
-## Connect with me and follow my updates, thoughts, and moments!
+## You can follow my updates, thoughts, and moments!
+
+
+[<img src="https://cdn.simpleicons.org/facebook/1877F2" width="20"> Mahendra Sanggha](https://www.facebook.com/mahendra.sanggha)
+
+[<img src="https://cdn.simpleicons.org/x/000000" width="20"> @maheranggha](https://x.com/maheranggha)
+
+[<img src="https://cdn.simpleicons.org/instagram/E4405F" width="20"> @maheranggha](https://www.instagram.com/maheranggha)
+
 
 Instagram
 [@maheranggha](https://instagram.com/maheranggha)
