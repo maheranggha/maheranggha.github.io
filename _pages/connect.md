@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Connect"
+title: "Social Media"
 permalink: /connect/
 author_profile: true
 
@@ -8,8 +8,9 @@ author_profile: true
 
 {% include base_path %}
 
-
 ## You can also follow my updates, thoughts, and moments! 😎
+
+---
 
 X (Twitter)
 [@maheranggha](https://x.com/maheranggha)
@@ -19,5 +20,7 @@ Instagram
 
 Facebook
 [Mahendra Sanggha](https://www.facebook.com/mahendra.sanggha)
+
+---
 
 ## Feel free to say hello. 👋 
