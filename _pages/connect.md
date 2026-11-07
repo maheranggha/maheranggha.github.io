@@ -4,8 +4,7 @@ title: "Connect"
 description: "Find me around the web."
 permalink: /connect/
 author_profile: true
-redirect_from:
-  - /resume
+
 ---
 
 {% include base_path %}
