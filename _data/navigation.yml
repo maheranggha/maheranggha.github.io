@@ -22,7 +22,10 @@ main:
     
   - title: "CV"
     url: /cv/
-
+    
+  - title: "Connect"
+    url: /connect/
+    
   - title: "Blog"
     url: /year-archive/
     
